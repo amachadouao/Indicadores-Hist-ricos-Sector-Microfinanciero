@@ -38,7 +38,9 @@ La base dispone de 3.845 variables, de las cuales se seleccionaron 81 variables 
 
 # Conclusiones y generación de valor:
 La base de datos contiene una gran cantidad de variables que pueden utilizarse para el calculo de diversos indicadores, que podrían ser de gran utilidad para las entidades microfinancieras en sus actividades de seguimiento al desempeño comercial y financiero.
+
 La base de datos permite actualizar la información conforme a lo repartado en la página de la Superfinanciera, obteniendo los indicadores más recientes.
+
 La generación de los indicadores no solo se puede realizar para las entidades microfinanciero, sino también para todas las que pertencen al sector financiero.
 
 El valor generado con este proyecto es el de poder gestionar la información recopilada de manera automática, permitiendo visualizar gráficamente los datos de variables y diversos indicadores que son relevantes en la toma de decisiones en la gestión del riesgo de crédito; realizar comparativos entres los pares más representativos, observar tendencias, comportamientos y oportunidades.
